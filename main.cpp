@@ -8,7 +8,6 @@ int main()
     gui::Gui maGui;
 
     gui::Button button;
-    button.setPosition(100,150);
 
     maGui.add(&button);
 
